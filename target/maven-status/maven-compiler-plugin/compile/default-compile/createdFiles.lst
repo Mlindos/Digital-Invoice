@@ -1,0 +1,13 @@
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\controller\InvoiceController.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\entity\LineItem.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\repository\InvoiceRepository.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\repository\LineItemRepository.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\services\invoiceservice\InvoiceService.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\DigitalInvoiceApplication.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\services\invoiceservice\LineItemService.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\services\custinvoiceservice\GetClientInvoice.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\services\custinvoiceservice\CustomerInvoice.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\services\custinvoiceservice\InvoiceItems.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\entity\LineItemId.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\entity\Invoice.class
+za\co\digitalplatoon\invoiceservice\invoice\digitalinvoice\controller\CustomerInvoiceController.class
